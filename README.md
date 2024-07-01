@@ -44,7 +44,6 @@
 <details>
 
 > [!NOTE]
->
 > This is a standard NOTE block.
 
 > [!TIP]
@@ -59,33 +58,36 @@
 >
 > This is a standard CAUTION.
 
->[!WARNING]
+> [!WARNING]
 >
->This is a standard WARNING.
+> This is a standard WARNING.
 
->[!ADMINISTRATION]
+> [!ADMINISTRATION]
 >
->This is a standard ADMINISTRATION.
+> This is a standard ADMINISTRATION.
 
->[!AVAILABILITY]
+> [!AVAILABILITY]
 >
->This is a standard AVAILABILITY.
+> This is a standard AVAILABILITY.
 
->[!PREREQUISITES]
+> [!PREREQUISITES]
 >
->This is a standard PREREQUISITES.
+> This is a standard PREREQUISITES.
 
->[!ERROR]
+> [!ERROR]
 >
->This is a standard ERROR.
+> This is a standard ERROR.
 
->[!INFO]
+> [!INFO]
 >
->This is a INFO.
+> This is a INFO.
 
->[!SUCCESS]
+> [!SUCCESS]
 >
->This is a SUCCESS.
+> This is a SUCCESS.
 
 </details>
+
+> **Warning**
+> This is a SUCCESS.
 
